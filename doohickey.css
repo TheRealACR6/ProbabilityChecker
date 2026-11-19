@@ -13,3 +13,8 @@ body{
   font-family: 'Courier New', Courier, monospace;
   width: 100px;
 }
+button {
+  color: #FFFFFF;
+  background-color: #000000;
+  font-family: 'Courier New', Courier, monospace;
+}
